@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matthewjansonytcode
+- 👀 I’m interested in PCs.
+- 🌱 I’m currently learning how to make an OS.
+- 💞️ I’m looking to collaborate on email.
